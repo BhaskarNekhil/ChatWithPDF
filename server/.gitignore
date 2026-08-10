@@ -1,0 +1,11 @@
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Uploaded files (user data)
+server/uploads/
+
+# PDF files
+*.pdf
